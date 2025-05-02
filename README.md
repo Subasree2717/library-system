@@ -56,3 +56,8 @@
 
     - Built with [Streamlit](https://streamlit.io/)
     - Inspired by the need for simple library management solutions.
+
+    #live deploy
+    
+    access with
+    https://libo123.streamlit.app/
